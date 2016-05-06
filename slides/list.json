@@ -21,7 +21,7 @@
     {
         "filename": "why-open-source.md",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background": "#ff00ff"
         }
     },
     {
@@ -49,5 +49,6 @@
         "12-factor-dev-prod-parity.md",
         "12-factor-logs.md",
         "12-factor-admin-processes.md"
-    ]
+    ],
+    "heroku.md"
 ]

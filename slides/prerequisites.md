@@ -2,8 +2,8 @@
 
 [12 Factor App](http://12factor.net/)
 
-![Docker](https://www.docker.com/sites/all/themes/docker/assets/images/Logo-Docker.svg "Docker")
+Git
 
-![Kuberbetes](http://kubernetes.io/images/nav_logo.svg "Kubernetes")
+Docker
 
-Kubernetes - only for Deis
+Kuberbetes (only for Deis)

@@ -4,6 +4,6 @@
 
 http://dhilipsiva.com
 
-Full-Stack, DevOps, iOS, Big Bata, ML, Father
+Full-Stack, DevOps, iOS, Big Bata, IoT, ML, Father
 
 Jack of All trades, Master of None
