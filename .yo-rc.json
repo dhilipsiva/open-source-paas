@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Open Source PaaS Solutions (Deis / Dokku / Flynn)",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "dhilipsiva",
+    "githubRepository": "open-source-paas"
+  }
+}
