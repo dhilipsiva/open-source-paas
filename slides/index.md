@@ -1,10 +1,6 @@
 
-# Open Source PaaS Solutions (Deis / Dokku / Flynn)
+# Open Source PaaS
 
-From the terminal, pop in:
+## Deis | Dokku | Flynn
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+### [dhilipsiva](http://dhilipsiva.com/)
