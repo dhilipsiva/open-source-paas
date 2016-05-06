@@ -62,5 +62,35 @@
         "attr": {
             "data-background": "#ff0000"
         }
+    },
+    {
+        "filename": "deis-v1.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "deis-v2.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "comparision.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "which-one-to-use.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "thanks-questions.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
     }
 ]
