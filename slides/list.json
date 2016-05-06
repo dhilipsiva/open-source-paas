@@ -50,5 +50,17 @@
         "12-factor-logs.md",
         "12-factor-admin-processes.md"
     ],
-    "heroku.md"
+    "heroku.md",
+    {
+        "filename": "dokku.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "flynn.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    }
 ]
